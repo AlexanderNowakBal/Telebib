@@ -1,0 +1,15 @@
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\bin\Debug\net6.0\MyConsoleApp.exe
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\bin\Debug\net6.0\MyConsoleApp.deps.json
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\bin\Debug\net6.0\MyConsoleApp.runtimeconfig.json
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\bin\Debug\net6.0\MyConsoleApp.dll
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\bin\Debug\net6.0\MyConsoleApp.pdb
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\obj\Debug\net6.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\obj\Debug\net6.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\obj\Debug\net6.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\obj\Debug\net6.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\obj\Debug\net6.0\MyConsoleApp.sourcelink.json
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\obj\Debug\net6.0\MyConsoleApp.dll
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\obj\Debug\net6.0\refint\MyConsoleApp.dll
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\obj\Debug\net6.0\MyConsoleApp.pdb
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\obj\Debug\net6.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\H039782\GitHub\Telebib\MyConsoleApp\src\obj\Debug\net6.0\ref\MyConsoleApp.dll
