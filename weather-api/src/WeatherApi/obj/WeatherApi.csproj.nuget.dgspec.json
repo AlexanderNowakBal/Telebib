@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\H039782\\GitHub\\Telebib\\MyConsoleApp\\src\\MyConsoleApp.csproj": {}
+    "C:\\Users\\H039782\\GitHub\\Telebib\\weather-api\\src\\WeatherApi\\WeatherApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\H039782\\GitHub\\Telebib\\MyConsoleApp\\src\\MyConsoleApp.csproj": {
+    "C:\\Users\\H039782\\GitHub\\Telebib\\weather-api\\src\\WeatherApi\\WeatherApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\H039782\\GitHub\\Telebib\\MyConsoleApp\\src\\MyConsoleApp.csproj",
-        "projectName": "MyConsoleApp",
-        "projectPath": "C:\\Users\\H039782\\GitHub\\Telebib\\MyConsoleApp\\src\\MyConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\H039782\\GitHub\\Telebib\\weather-api\\src\\WeatherApi\\WeatherApi.csproj",
+        "projectName": "WeatherApi",
+        "projectPath": "C:\\Users\\H039782\\GitHub\\Telebib\\weather-api\\src\\WeatherApi\\WeatherApi.csproj",
         "packagesPath": "C:\\Users\\H039782\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\H039782\\GitHub\\Telebib\\MyConsoleApp\\src\\obj\\",
+        "outputPath": "C:\\Users\\H039782\\GitHub\\Telebib\\weather-api\\src\\WeatherApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,20 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -61,6 +75,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

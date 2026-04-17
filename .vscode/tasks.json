@@ -38,5 +38,18 @@
             ],
             "problemMatcher": "$msCompile"
         }
+        ,
+        {
+            "label": "build-weatherapi",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/weather-api/src/WeatherApi/WeatherApi.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        }
     ]
 }

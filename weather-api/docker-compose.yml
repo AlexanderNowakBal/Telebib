@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  weatherapi:
+    image: weatherapi:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - weatherapi-network
+
+networks:
+  weatherapi-network:
+    driver: bridge
